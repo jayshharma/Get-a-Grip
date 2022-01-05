@@ -1,6 +1,6 @@
 # Get a Grip!
 Within clinical environments, sterilization is an essential procedure for disinfecting surgical and medical
-instruments. For our engineering design project, our team was tasked with designing a remote system for securely transferring a surgical instrument to an autoclave for sterilization: 
+instruments. For our engineering design project, our team was tasked with designing a remote system for securely transferring a surgical instrument to an autoclave for sterilization. 
 
 In my sub-team, I worked on designing a computer program using ```Python``` for controlling a robotic arm that would transfer a container to an autoclave location. 
 
