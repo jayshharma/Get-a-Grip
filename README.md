@@ -6,3 +6,6 @@ In my sub-team, I worked on designing a computer program using ```Python``` for 
 
 The robotic system works by interfacing with Quanser Labs using two muscle sensor emulators. Based on emulator data, the computer program performs various operations for controlling the robotic arm and autoclave bin drawers. This includes functions for controlling the gripper, end-effector and autoclave bins. A ```Raspberry Pi``` was used to interface with ```Q-Labs```.
 
+Attached below is an image depicting the Q-Labs Environment, featuring the Robotic Q-Arm.
+
+![](images/qlabs.png)
